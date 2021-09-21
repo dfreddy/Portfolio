@@ -11,6 +11,27 @@ Using a public dataset provided by Yelp
 ### Tech Stack
 Python, Tensorflow, Recommender System
 
+## [Beijing House Price Regression](https://www.kaggle.com/wutangfza/beijing-house-pricing-regression?scriptVersionId=75258121)
+
+Kaggle project that performs an EDA to a dataset of house prices in Beijing and creates regression models to predict the prices
+
+### Tech Stack
+Python, Regression
+
+## [Petal To The Metal](https://www.kaggle.com/wutangfza/petals-to-the-metal)
+
+Kaggle competition that revolves around using their TPU while analysing and creating a CNN (custom base + head) that is able to correctly classify different types of flowers from pictures
+
+### Tech Stack
+Python, CNNs
+
+## [House Prices with Keras](https://www.kaggle.com/wutangfza/house-prices-regression-with-keras)
+
+Simple Kaggle project that attempts to achieve good accuracy in the house price prediction problem using a custom Keras neural network, based on a Kaggle competition that centers around house prices prediction using regression models
+
+### Tech Stack
+Python, Tensorflow, Keras
+
 ## [NBA Schedule Optimiser](https://github.com/dfreddy/NBA-Schedule-Optimiser)
 
 Builds a fair NBA schedule from the ground up applying Simulated Annealing
@@ -33,27 +54,6 @@ Relational database using .csv
 
 ### Tech Stack
 Python, Recommender Systems
-
-## [Beijing House Price Regression](https://www.kaggle.com/wutangfza/beijing-house-pricing-regression?scriptVersionId=75258121)
-
-Kaggle project that performs an EDA to a dataset of house prices in Beijing and creates regression models to predict the prices
-
-### Tech Stack
-Python, Regression
-
-## [Petal To The Metal](https://www.kaggle.com/wutangfza/petals-to-the-metal)
-
-Kaggle competition that revolves around using their TPU while analysing and creating a CNN (custom base + head) that is able to correctly classify different types of flowers from pictures
-
-### Tech Stack
-Python, CNNs
-
-## [House Prices with Keras](https://www.kaggle.com/wutangfza/house-prices-regression-with-keras)
-
-Simple Kaggle project that attempts to achieve good accuracy in the house price prediction problem using a custom Keras neural network, based on a Kaggle competition that centers around house prices prediction using regression models
-
-### Tech Stack
-Python, Tensorflow, Keras
 
 # Software Dev + others
 
