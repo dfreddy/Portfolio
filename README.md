@@ -64,6 +64,13 @@ Simple node API that lets you manage contacts
 ### Tech Stack
 NodeJS, Sequelize, Express, Postgres
 
+## [Tree Pruning API](https://github.com/dfreddy/TreePruningAPI)
+
+Simple python API that connects to a server and prunes a tree according to the desired parameters.
+
+### Tech Stack
+Python, Flask
+
 ## [arXiv Scraper](https://github.com/dfreddy/arXiv-Scraper)
 
 Web scraper that fetches the latest ArXiv papers from the selected categories
