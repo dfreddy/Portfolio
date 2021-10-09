@@ -1,5 +1,8 @@
 Hub linking to most of my relevant side projects and university work
 
+- [Data Science](https://github.com/dfreddy/Portfolio#data-science)
+- [Software Development + others](https://github.com/dfreddy/Portfolio#software-dev--others)
+
 # Data Science
 
 ## [Recommender System With Explanations](https://github.com/dfreddy/Recommender-System)
