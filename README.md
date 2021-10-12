@@ -19,7 +19,7 @@ Python, Tensorflow, Recommender System
 Kaggle project that performs an EDA to a dataset of house prices in Beijing and creates regression models to predict the prices
 
 ### Tech Stack
-Python, Regression
+Python, Regression, Analysis
 
 ## [Petal To The Metal](https://www.kaggle.com/wutangfza/petals-to-the-metal)
 
