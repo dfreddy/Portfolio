@@ -1,4 +1,6 @@
-Portfolio hub linking to most of my relevant side projects and university work
+This is a hub linking to all of my relevant side-projects and work done in University during my Masters.
 
-- [Data Science](https://github.com/dfreddy/Portfolio/tree/main/Data%20Science)
-- [Software Development](https://github.com/dfreddy/Portfolio/tree/main/Software%20Dev)
+Each of the sections below contain a summary of all the projects contained within that genre, as well as a link to their respective github pages.
+
+- [Data Science](https://dfreddy.github.io/Portfolio/Data%20Science)
+- [Software Development](https://dfreddy.github.io/Portfolio/Software%20Dev)
