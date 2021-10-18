@@ -18,7 +18,7 @@ Kaggle project that performs an EDA to a dataset of house prices in Beijing and 
 ### Tech Stack
 Python, Regression, Analysis
 
-![](https://github.com/dfreddy/Portfolio/blob/main/Data%20Science/Images/results.png)
+![](https://github.com/dfreddy/Portfolio/blob/main/Data%20Science/Images/prices_OT.png)
 
 ## [Petal To The Metal](https://www.kaggle.com/wutangfza/petals-to-the-metal)
 
