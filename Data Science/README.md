@@ -9,6 +9,8 @@ Using a public dataset provided by Yelp
 ### Tech Stack
 Python, Tensorflow, Recommender System
 
+![](https://github.com/dfreddy/Portfolio/blob/main/Data%20Science/Images/solo_DEI.png)
+
 ## [Beijing House Price Regression](https://www.kaggle.com/wutangfza/beijing-house-pricing-regression)
 
 Kaggle project that performs an EDA to a dataset of house prices in Beijing and creates regression models to predict the prices
@@ -16,12 +18,16 @@ Kaggle project that performs an EDA to a dataset of house prices in Beijing and 
 ### Tech Stack
 Python, Regression, Analysis
 
+![](https://github.com/dfreddy/Portfolio/blob/main/Data%20Science/Images/results.png)
+
 ## [Petal To The Metal](https://www.kaggle.com/wutangfza/petals-to-the-metal)
 
 Kaggle competition that revolves around using their TPU while analysing and creating a CNN (custom base + head) that is able to correctly classify different types of flowers from pictures
 
 ### Tech Stack
 Python, CNNs
+
+![](https://github.com/dfreddy/Portfolio/blob/main/Data%20Science/Images/flowers_results.png)
 
 ## [House Prices with Keras](https://www.kaggle.com/wutangfza/house-prices-regression-with-keras)
 
