@@ -9,7 +9,7 @@ Using a public dataset provided by Yelp
 ### Tech Stack
 Python, Tensorflow, Recommender System
 
-## [Beijing House Price Regression](https://www.kaggle.com/wutangfza/beijing-house-pricing-regression?scriptVersionId=75258121)
+## [Beijing House Price Regression](https://www.kaggle.com/wutangfza/beijing-house-pricing-regression)
 
 Kaggle project that performs an EDA to a dataset of house prices in Beijing and creates regression models to predict the prices
 
