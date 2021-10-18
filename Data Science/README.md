@@ -9,7 +9,7 @@ Using a public dataset provided by Yelp
 ### Tech Stack
 Python, Tensorflow, Recommender System
 
-![](https://github.com/dfreddy/Portfolio/blob/main/Data%20Science/Images/solo_DEI.png)
+<img src="/Data%20Science/Images/solo_DEI.png" alt="" width="800"/>
 
 ## [Beijing House Price Regression](https://www.kaggle.com/wutangfza/beijing-house-pricing-regression)
 
@@ -18,7 +18,7 @@ Kaggle project that performs an EDA to a dataset of house prices in Beijing and 
 ### Tech Stack
 Python, Regression, Analysis
 
-![](https://github.com/dfreddy/Portfolio/blob/main/Data%20Science/Images/prices_OT.png)
+<img src="/Data%20Science/Images/prices_OT.png" alt="" width="800"/>
 
 ## [Petal To The Metal](https://www.kaggle.com/wutangfza/petals-to-the-metal)
 
@@ -27,7 +27,7 @@ Kaggle competition that revolves around using their TPU while analysing and crea
 ### Tech Stack
 Python, CNNs
 
-![](https://github.com/dfreddy/Portfolio/blob/main/Data%20Science/Images/flowers_results.png)
+<img src="/Data%20Science/Images/flowers_results.png" alt="" width="800"/>
 
 ## [House Prices with Keras](https://www.kaggle.com/wutangfza/house-prices-regression-with-keras)
 
