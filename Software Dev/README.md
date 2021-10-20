@@ -8,8 +8,8 @@ Online forum for discussing NBA topics
 ### Tech Stack
 Python, Django
 
-![](/Images/NBAForum.gif)
-![](/Software%20Dev/Images/NBAForum.gif)
+![](/Images/nba-forum.png)
+![](/Software%20Dev/Images/nba-forum.png)
 
 ## [Manage Contacts](https://github.com/dfreddy/Manage-Contacts)
 
